@@ -3,8 +3,8 @@ This Arduino project comprises a vacuum cleaner boasting four distinct modes: Au
 
 ## Table of Contents 📚
 # Table of Contents 📚
-- [Overview](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#Overview)
-- [Features](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#Features)
+- [Overview](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#overview-)
+- [Features](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#features-%EF%B8%8F)
 
 ## Overview 📋
 
