@@ -2,8 +2,9 @@
 This Arduino project comprises a vacuum cleaner boasting four distinct modes: Automatic, Remote control via mobile phone, Voice recognition, and Face recognition modes.
 
 ## Table of Contents 📚
-- [Overview](#overview)
-- [Features](#features)
+# Table of Contents 📚
+- [Overview](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#Overiew)
+- [Features](https://github.com/NisalWick2002/Multi-Mode-Vaccum-Cleaner?tab=readme-ov-file#Features)
 
 ## Overview 📋
 
