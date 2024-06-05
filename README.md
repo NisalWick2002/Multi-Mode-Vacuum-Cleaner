@@ -46,4 +46,4 @@ Circuit components related to the gate are placed inside of an obstacle which is
 
 
 
-### Interactive Gate Mechanism:
+### Intera
