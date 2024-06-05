@@ -47,4 +47,4 @@ Circuit components related to the gate are placed inside of an obstacle which is
 
 
 ### Interactive Gate Mechanism:
-Circuit components related to the gate are placed inside of an obstacle which is powered using another Ardui
+Circuit components related to the gate are placed inside of an obstacle which is pow
