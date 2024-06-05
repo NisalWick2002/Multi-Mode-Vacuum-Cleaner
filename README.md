@@ -46,3 +46,5 @@ Circuit components related to the gate are placed inside of an obstacle which is
 
 
 
+### Interactive Gate Mechanism:
+Circuit components related to the gate are placed inside of an obstacle which is powered using another Arduino board. This showcases that the vacuum cleaner can operate in secured environments too
